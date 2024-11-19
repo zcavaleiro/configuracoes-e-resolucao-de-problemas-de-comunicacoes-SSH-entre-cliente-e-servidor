@@ -504,7 +504,7 @@ Learn Linux TV](https://www.youtube.com/watch?v=YS5Zh7KExvE)
   - [Simplifying SSH Key Management: Leveraging ssh config for Security and Efficiency, SANS Cyber Defense](https://www.youtube.com/watch?v=ysd7GqBf5U0)
 
 <div dir=RtL> 
-:Autor da tradução</br>
+:Autor</br>
 <i>Zito Cavaleiro  </i>-   email: zcavaleiro AT protonmail DOT com</br>
 Professor de Matemática e Ciências da Natureza</br>
 Engenheiro de Automação de Tecnologias de Informação</div>
